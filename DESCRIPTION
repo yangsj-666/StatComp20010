@@ -1,0 +1,16 @@
+Package: StatComp20010
+Type: Package
+Title: Three functions for 'Statistical Computing' course
+Version: 1.0
+Date: 2020-12-18
+Author: Shijie Yang
+Maintainer: Shijie Yang <yang666@mail.ustc.edu.cn>
+Description: Three R functions are included in this package for homework.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.16), microbenchmark, knitr, rmarkdown, MASS, DAAG, RANN, boot, bootstrap,survival, energy, Ball
+LinkingTo: Rcpp
+RoxygenNote: 7.1.1
+Encoding: UTF-8
+VignetteBuilder: knitr
+URL: http://github.com/yangsj-666/StatComp20010
+BugReports: http://github.com/yangsj-666/StatComp20010/issues
